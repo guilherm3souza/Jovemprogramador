@@ -1,0 +1,2 @@
+Não consegui upar os arquivos através de comandos e estou ajustando o código pois ainda faltam informações.
+Dificuldades em realizar o main no phyton
